@@ -1,0 +1,31 @@
+header
+{
+    background-color: black;
+}
+html{
+    background-color: rgb(239, 239, 239);
+}
+main{
+    background-color: rgb(239, 239, 239);
+}
+.containera
+{
+    padding-top: 50px;
+}
+.cardRosa 
+{
+    border-radius: 20px;
+}
+
+.card .card-body
+{
+    background-color: #000000;
+}
+.progress
+{
+    width: 100%;
+}
+.card .cardProgress
+{
+    width: 50%;
+}
